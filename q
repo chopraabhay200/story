@@ -1,0 +1,37 @@
+[33mcommit e06ded39428dfbf88ef5dc0d5e05b376265e4915[m[33m ([m[1;36mHEAD -> [m[1;32mfeature1[m[33m)[m
+Author: Abhay Chopra <chopra.abhay200@gmail.com>
+Date:   Wed Oct 6 23:11:18 2021 +0530
+
+    complete chapter4
+
+[33mcommit 48b1a411aa201b36ffe78a14ad6c40f9be00241b[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/feature1[m[33m, [m[1;31morigin/feature[m[33m, [m[1;31morigin/develop[m[33m, [m[1;32mmaster[m[33m, [m[1;32mfeature[m[33m, [m[1;32mdevelop[m[33m)[m
+Author: Abhay Chopra <chopra.abhay200@gmail.com>
+Date:   Tue Oct 5 23:08:33 2021 +0530
+
+    restoring to 3rd commit
+
+[33mcommit 22874399b480d830230e68a6f39b1e7e1cc29d69[m
+Author: Abhay Chopra <chopra.abhay200@gmail.com>
+Date:   Tue Oct 5 23:05:31 2021 +0530
+
+    Revert "modified chapter 1"
+    
+    This reverts commit f936727334bb59a5c1860abf538da80e6571a0d3.
+
+[33mcommit f936727334bb59a5c1860abf538da80e6571a0d3[m
+Author: Abhay Chopra <chopra.abhay200@gmail.com>
+Date:   Tue Oct 5 22:58:57 2021 +0530
+
+    modified chapter 1
+
+[33mcommit d505e6ca8f0ef5237c27f9476b3960b2623a982c[m
+Author: Abhay Chopra <chopra.abhay200@gmail.com>
+Date:   Tue Oct 5 22:54:42 2021 +0530
+
+    complete chapter 2 and 3
+
+[33mcommit cdd63706845df510a7b9ff3593a0c958600ab5a3[m
+Author: Abhay Chopra <chopra.abhay200@gmail.com>
+Date:   Tue Oct 5 22:52:07 2021 +0530
+
+    add chapter 1
